@@ -4,12 +4,12 @@
 
 How to run tests:
 ```
-.\mvnw test
+mvnw test
 ```
 
 How to build project into .jar:
 ```
-.\mvnw package
+mvnw package
 ```
 
 How to run built project:
